@@ -1,7 +1,7 @@
 # Chatbot
 Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soporte a una universidad
 
-# DESAFIO#1 DPS G04L
+# INVESTIGACION APLICADA#1 DPS G02T
 ![image](https://user-images.githubusercontent.com/79995182/188522186-37932faa-4194-4c29-b288-f1530fa68e41.png)
 
  ## En este archivo README se pueden encontrar los siguientes elementos:
