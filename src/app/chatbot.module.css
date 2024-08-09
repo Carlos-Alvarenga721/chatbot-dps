@@ -1,79 +1,90 @@
 .chatbot {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    background-color: #f0f0f0;
-  }
-  
-  .chatWindow {
-    width: 60%;
-    height: 70%;
-    border: 1px solid #ccc;
-    background-color: white;
-    padding: 10px;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .me {
-    display: flex;
-    justify-content: flex-end;
-    margin-bottom: 10px;
-  }
-  
-  .bot {
-    display: flex;
-    justify-content: flex-start;
-    margin-bottom: 10px;
-  }
-  
-  .messageBubble {
-    max-width: 60%;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #e1ffc7;
-    color: black;
-    font-size: 14px;
-    word-wrap: break-word;
-  }
-  
-  .me .messageBubble {
-    background-color: #dcf8c6;
-  }
-  
-  .bot .messageBubble {
-    background-color: #fff;
-  }
-  
-  .inputContainer {
-    width: 60%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-  }
-  
-  .input {
-    flex: 1;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 20px;
-    margin-right: 10px;
-  }
-  
-  .button {
-    padding: 10px 20px;
-    background-color: #0070f3;
-    color: white;
-    border: none;
-    border-radius: 20px;
-    cursor: pointer;
-  }
-  
-  .button:hover {
-    background-color: #005bb5;
-  }
-  
+  width: 800px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.chatHeader {
+  background-color: #075E54;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.chatWindow {
+  flex-grow: 1;
+  padding: 10px;
+  overflow-y: auto;
+  background-color: #e5ddd5;
+}
+
+.messageBubble {
+  max-width: 70%;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px 0;
+  position: relative;
+}
+
+.me .messageBubble {
+  background-color: #dcf8c6;
+  align-self: flex-start;
+  order: 2;
+}
+
+.bot .messageBubble {
+  background-color: #ffffff;
+  align-self: flex-start;
+  order: 2;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.me {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.bot {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.inputContainer {
+  display: flex;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.input {
+  flex-grow: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.sendIcon {
+  width: 30px;
+  height: 30px;
+}
+

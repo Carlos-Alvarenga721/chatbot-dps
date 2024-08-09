@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Chatbot from '/src/app/components/Chatbot'
 
+
 export default function Home() {
   return (
     <div>
