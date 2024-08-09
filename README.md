@@ -21,7 +21,7 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
 
  4) FECHA DE ENTREGA:
 
-      Sábado 27 de julio de 2024
+      Viernes 8 de agosto de 2024
       
  LINK DEL VIDEO EXPLICATIVO DEL CODIGO Y FUNCIONALIDAD:
  https://youtu.be/cT-TIXgvINA
