@@ -7,11 +7,15 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
 
  1) INTEGRANTES DEL EQUIPO:
 
-     Carlos Alexander Alvarenga Claros (AC211104)
-     José Roberto Doradea Herrera (DH211056)
-     Ana Jocelyn Gil Torres (GT182673)
-     Roberto Rodrigo López Alvarado (LA203000)
-     Marcelo Yaser Andrade Garza (AG210653)
+     -Carlos Alexander Alvarenga Claros (AC211104)
+    
+     -José Roberto Doradea Herrera (DH211056)
+    
+     -Ana Jocelyn Gil Torres (GT182673)
+    
+     -Roberto Rodrigo López Alvarado (LA203000)
+    
+     -Marcelo Yaser Andrade Garza (AG210653)
      
      
  3) MATERIA:
@@ -24,7 +28,7 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
 
  5) FECHA DE ENTREGA:
 
-      Viernes 8 de agosto de 2024
+      Viernes 9 de agosto de 2024
       
  6) LINK DEL VIDEO EXPLICATIVO DEL CODIGO Y FUNCIONALIDAD:
  https://youtu.be/cT-TIXgvINA
