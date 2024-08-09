@@ -7,11 +7,12 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
 
  1) INTEGRANTES DEL EQUIPO:
 
-     -Carlos Alexander Alvarenga Claros (AC211104)
-     -José Roberto Doradea Herrera (DH211056)
-     -Roberto Rodrigo López Alvarado (LA203000)
-     -Marcelo Yaser Andrade Garza (AG210653)
-     -Ana Jocelyn Gil Torres (GT182673)
+     Carlos Alexander Alvarenga Claros (AC211104)
+     José Roberto Doradea Herrera (DH211056)
+     Ana Jocelyn Gil Torres (GT182673)
+     Roberto Rodrigo López Alvarado (LA203000)
+     Marcelo Yaser Andrade Garza (AG210653)
+     
      
  3) MATERIA:
 
