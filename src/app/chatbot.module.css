@@ -19,8 +19,9 @@
 .chatWindow {
   flex-grow: 1;
   padding: 10px;
-  overflow-y: auto;
+  overflow-y: scroll; /*cambio*/
   background-color: #e5ddd5;
+  height: 700px; /*cambio*/
 }
 
 .messageBubble {
@@ -33,7 +34,7 @@
 
 .me .messageBubble {
   background-color: #dcf8c6;
-  align-self: flex-start;
+  align-self: flex-end; /*cambio*/
   order: 2;
 }
 
@@ -52,7 +53,7 @@
 
 .me {
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   align-items: center;
 }
 

@@ -54,7 +54,7 @@ const Chatbot = () => {
           value={input}
           onChange={(e) => setInput(e.target.value)}
           onKeyPress={(e) => e.key === 'Enter' && handleSend()}
-          placeholder="Type text"
+          placeholder="Escriba algo..."
         />
         <button className={styles.button} onClick={handleSend}>
           <img src="https://cdn-icons-png.flaticon.com/512/660/660619.png" alt="send" className={styles.sendIcon} />
