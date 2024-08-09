@@ -23,5 +23,10 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
 
       Viernes 8 de agosto de 2024
       
- LINK DEL VIDEO EXPLICATIVO DEL CODIGO Y FUNCIONALIDAD:
+ 5) LINK DEL VIDEO EXPLICATIVO DEL CODIGO Y FUNCIONALIDAD:
  https://youtu.be/cT-TIXgvINA
+
+
+ 6) PRESENTACION DE GITHUB COPILOT:
+
+      [GITHUB COPILOT.pdf](https://github.com/user-attachments/files/16567678/GITHUB.COPILOT.pdf)
