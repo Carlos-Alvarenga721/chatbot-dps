@@ -20,7 +20,7 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
      
  3) MATERIA:
 
-     Diseño y Programación de Software Multiplataforma DPS104 G04L
+     Diseño y Programación de Software Multiplataforma DPS104 G02T
 
  4) DOCENTE:
 
@@ -31,8 +31,8 @@ Este proyecto se basa en la creacion de una chatbot que ayudara a brindar soport
       Viernes 9 de agosto de 2024
       
  6) LINK DEL VIDEO EXPLICATIVO DEL CODIGO Y FUNCIONALIDAD:
- https://youtu.be/cT-TIXgvINA
-
+    
+ https://www.youtube.com/watch?v=WjQ3AatFM_o
 
  7) PRESENTACION DE GITHUB COPILOT:
 
